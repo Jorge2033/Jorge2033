@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Jorge2033/Jorge2033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mi sitio personal
+Este es mi sitio personal. Aqui puedes encontrar informacion sobre mi, mis proyectos y mis intereses.
 
-Here are some ideas to get you started:
+## contenido 
+* [Información personal](#información-personal)
+* [Proyectos](#proyectos)
+* [Intereses](#intereses)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Información personal
+* Nombre: Jorge Gaibor Onofre
+* Ocupación: Desarrollador Web
+* Lugar de residencia: Decima 2542 y el Oro, La chala 
+* Sitio web: [Tu sitio web]
+## Proyectos
+* [Lista de tus proyectos]
+## Intereses
+* Deportes
+* Musica
+* Tecnologia
