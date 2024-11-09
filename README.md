@@ -12,9 +12,9 @@ Este es mi sitio personal. Aqui puedes encontrar informacion sobre mi, mis proye
 * Nombre: Jorge Gaibor Onofre
 * Ocupación: Desarrollador Web
 * Lugar de residencia: Decima 2542 y el Oro, La chala 
-* Sitio web: [Tu sitio web]
+* Sitio web: 
 ## Proyectos
-* [Lista de tus proyectos]
+* 
 ## Intereses
 * Deportes
 * Musica
