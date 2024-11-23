@@ -73,6 +73,7 @@
 ---
 
 ## Código QR del Sitio
+![Texto alternativo](./Untitled.png)
 
 ---
 
