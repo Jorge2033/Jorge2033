@@ -15,7 +15,7 @@
 - **Residencia:** Décima 2542 y El Oro, La Chala
 - **Contacto:**
   - [Perfil en GitHub](https://github.com/Jorge2033)
-  - [Correo Electrónico](mailto:tu-email@example.com)
+  - [Correo Electrónico](mailto:jegaibor@espol.edu.ec)
 
 ---
 
