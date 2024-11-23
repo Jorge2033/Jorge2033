@@ -74,8 +74,6 @@
 
 ## Código QR del Sitio
 
-**[Insertar aquí una imagen del QR del sitio web generado con GitHub Pages]**
-
 ---
 
 **Nota:** Este sitio está alojado en [GitHub Pages](https://jorge2033.github.io). Explora mis proyectos y conoce más sobre mi trabajo.
