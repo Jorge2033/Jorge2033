@@ -73,7 +73,8 @@
 ---
 
 ## Código QR del Sitio
-![Texto alternativo](./Untitled.png)
+<img src="./Untitled.png" alt="Código QR del Sitio" width="300">
+
 
 ---
 
